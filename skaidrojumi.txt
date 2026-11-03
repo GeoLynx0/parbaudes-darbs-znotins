@@ -1,0 +1,8 @@
+J1
+1. Lejuplādēt "Pandas".
+2. Sagrupēt datus stundas frekvencē izmantojot data.groupby
+3. Izfiltrēt visus ierakstus, kuros neparādās "ERROR".
+4. 
+
+J2
+Šādā uzdevumā objekti ir vienkāršāki, jo var iegūt processa un atmiņas patēriņu ar get-process un filtrēt pēc izmēra izmantojot WorkingSet.
